@@ -70,6 +70,7 @@ Enviar resultados a:
 
 ###  5. Ejecutarlo automáticamente  
 Con cron jobs:
+
 crontab -e
 0 * * * * python analizador.py
 
